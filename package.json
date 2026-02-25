@@ -1,0 +1,17 @@
+{
+  "name": "mini-web-studio",
+  "version": "1.0.0",
+  "description": "One-page portfolio site for my mini web studio where I build simple websites for people and small projects.",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "web",
+    "portfolio",
+    "landing-page",
+    "static-site"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
